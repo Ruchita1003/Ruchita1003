@@ -18,8 +18,7 @@ A little about me:
 Engage more with me on:
 
  [![Linkedin Badge](https://img.shields.io/badge/-Ruchita--Nagare-blue?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ruchita-nagare/)](https://www.linkedin.com/in/ruchita-nagare/)
- [![Insta Badge](https://img.shields.io/badge/-eshan__twistedmat-red?logo=Instagram&logoColor=white&link=https://www.instagram.com/eshan_twistedmat/?hl=en)](https://www.instagram.com/eshan_twistedmat/?hl=en)
- [![Twitter Badge](https://img.shields.io/badge/-Eshan__twistdmat-white?logo=Twitter&logoColor=blue&link=https://twitter.com/Eshan_twistdmat)](https://twitter.com/Eshan_twistdmat)
+ [![Insta Badge](https://img.shields.io/badge/-Ruchita_Nagare-red?logo=Instagram&logoColor=white&link=https://www.instagram.com/ruchita_nagare/)](https://www.instagram.com/ruchita_nagare/)
 
 
 
