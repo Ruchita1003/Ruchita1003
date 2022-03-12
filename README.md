@@ -3,16 +3,23 @@
 
 ## I am Ruchita Nagare, enjoying being a Graduate Student at Carnegie Mellon University
 
-Here are some ideas to get you started:
+A little about me:
 
 - 🎓 I'm currently pursuing Master of Information Systems Management at [CMU](https://www.cmu.edu/).
 - 🌱 On a voyage to leverage data using Machine Learning solutions
 - 🔭 Exploring the power of Data Science
-- ⚙️ My toolkit: .py, .java, .sql
+- ⚙️ My toolkit: `Python`, `SQL`, `Java`
 - 💬 Trying to gain value out of any and every conversation
 - I love to play my 🎻 and 💃 in my free time.
 - 🏋️‍♀ Working out makes me happier!	
 - 😄 Pronouns: She/Her
+
+---
+Engage more with me on:
+
+ [![Linkedin Badge](https://img.shields.io/badge/-eshan--mehrotra-blue?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/eshan-mehrotra/)](linkedin.com/in/ruchita-nagare)
+ [![Insta Badge](https://img.shields.io/badge/-eshan__twistedmat-red?logo=Instagram&logoColor=white&link=https://www.instagram.com/eshan_twistedmat/?hl=en)](https://www.instagram.com/eshan_twistedmat/?hl=en)
+ [![Twitter Badge](https://img.shields.io/badge/-Eshan__twistdmat-white?logo=Twitter&logoColor=blue&link=https://twitter.com/Eshan_twistdmat)](https://twitter.com/Eshan_twistdmat)
 
 
 
