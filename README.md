@@ -9,9 +9,10 @@ Here are some ideas to get you started:
 - 🌱 On a voyage to leverage data using Machine Learning solutions
 - 🔭 Exploring the power of Data Science
 - ⚙️ My toolkit: .py, .java, .sql
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Trying to gain value out of any and every conversation
+- I love to play my 🎻 and 💃 in my free time.
+- 🏋️‍♀ Working out makes me happier!	
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+
 
 
