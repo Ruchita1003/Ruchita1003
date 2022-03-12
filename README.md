@@ -3,6 +3,8 @@
 
 ## I am Ruchita Nagare, enjoying being a Graduate Student at Carnegie Mellon University
 
+---
+
 A little about me:
 
 - 🎓 I'm currently pursuing Master of Information Systems Management at [CMU](https://www.cmu.edu/).
