@@ -1,7 +1,7 @@
 ## Hi there👋, I am Ruchita Nagare
 
 
-# Enjoying being a Graduate Student at Carnegie Mellon University
+### Enjoying being a Graduate Student at Carnegie Mellon University
 ---
 
 A little about me:
