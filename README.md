@@ -1,12 +1,12 @@
 ## Hi there👋, I am Ruchita Nagare
 
 
-### Enjoying being a Graduate Student at Carnegie Mellon University
+### My superpower - To generate value by leveraging the power of the data that embodies the human behind it.
 ---
 
 A little about me:
 
-- 🎓 I'm currently pursuing Master of Information Systems Management at [CMU](https://www.cmu.edu/).
+- 🎓 I am a recent graduate student of [Carngie Mellon University](https://www.cmu.edu/) with a Masters of Information Systems Management degree.
 - 🌱 On a voyage to leverage data using Machine Learning solutions
 - 🔭 Exploring the power of Data Science
 - ⚙️ My toolkit: `Python`, `SQL`, `Java`
